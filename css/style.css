@@ -1,0 +1,12 @@
+#flamengo{
+    color: rgb(231, 16, 16);
+    border: 2px dotted black;
+    text-align: center;
+}
+#palmas{
+   color: rgb(10, 199, 224);
+}
+.toc{
+   color: rgb(1, 141, 43);
+   border: 3px solid red;
+}
